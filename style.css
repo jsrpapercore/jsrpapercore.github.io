@@ -455,10 +455,10 @@ font-family: 'Open Sans', sans-serif;
 .main-menu ul li a {
   color: #555;
   display: block;
-  font-size: 13px;
+  font-size: 16px;
   font-weight: 600;
   line-height: 20px;
-  padding: 30px 15px;
+  padding: 50px 15px;
   text-transform: uppercase;
   transition: all 0.3s ease 0s;
 }
