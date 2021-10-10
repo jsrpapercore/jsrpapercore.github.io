@@ -580,8 +580,8 @@ font-family: 'Open Sans', sans-serif;
   margin-bottom:20px;
 }
 .section-title.text-center > p {
-  color: #555;
-  font-size: 16px;
+  color: #f30000;
+  font-size: 30px;
   font-weight: 300;
   line-height: 26px;
 }
