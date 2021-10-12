@@ -538,8 +538,8 @@ font-family: 'Open Sans', sans-serif;
   transition: all 0.3s ease 0s;
 }
 .slider-text a.active {
-  background: #3452ff none repeat scroll 0 0;
-  border-color: #3452ff;
+  background: #753c09 none repeat scroll 0 0;
+  border-color: #753c09;
   color: #ffffff;
 }
 .slider-text a.active:hover{background:#333333;border-color:#333333;}
